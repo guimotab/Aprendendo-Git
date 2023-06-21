@@ -10,4 +10,4 @@ git checkout {7PrimeirosHashs}
 
 git branch -b {nomeDaBranch}
 
-(inicia uma nova branch a partir da hash que você estava)
+(inicia uma nova branch a partir da hash que você estava) 
